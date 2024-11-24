@@ -1,0 +1,6 @@
+{
+    "url": "http://192.168.192.182:3000",
+    "check_interval": 10,
+    "threshold": 24.0
+}
+
